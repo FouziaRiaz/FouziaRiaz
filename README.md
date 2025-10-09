@@ -36,8 +36,8 @@
 ---
 
 ### 📫 How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/fouzia-riaz)  
-- ✉️ Email: **fouziariaz.cs@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/fouziariaz-digitalmarketing/)  
+- ✉️ Email: **fouziar707@gmail.com**
 
 ---
 
