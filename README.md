@@ -1,49 +1,101 @@
-## Hi there 👋 I'm Fouzia Riaz  
+# 👋 Hi, I'm Fouzia Riaz!
 
-🎓 **BS (Hons) in Computer Science** from GC University, Faisalabad  
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Technology**  
-🌍 Currently based in **Kharian, Pakistan**
+Web Developer | Python Developer | AI & Automation Enthusiast
 
----
+I build modern web applications, AI-powered tools, and automation solutions using Python and frontend technologies.
 
-### 🔭 What I’m currently working on
-- Teaching **Mobile App Development (Dart & Flutter)** at **Air University Kharian Campus**
-- Creating **AI-powered educational tools** for students and teachers  
-- Developing my own **Quran App** using **Streamlit** on Hugging Face  
+With a background in Computer Science and hands-on project experience, I specialize in:
 
----
+💻 Full-Stack Web Development
+🐍 Python Development & Automation
+🌐 Responsive Frontend Design
+🤖 AI-Powered Applications & Deployment
 
-### 🌱 What I’m currently learning
-- Advanced **Machine Learning** and **AI concepts**  
-- **Norwegian Language (Norsk)** for personal and professional growth  
-- Improving **full-stack mobile app development** with Flutter and Firebase  
+I’m currently open to entry-level developer opportunities, internships, freelance projects, and collaborations in Norway or remote.
 
 ---
 
-### 👯 I’m looking to collaborate on
-- AI-based educational or productivity projects  
-- Open-source **Flutter** and **Python** repositories  
-- Research or innovation in **AI for Education**
+# 🚀 What I Do
+
+## 🔹 Web Development
+
+I build responsive and user-friendly web applications using:
+
+* Python & Django → Backend development, authentication, database handling
+* React & JavaScript → Interactive frontend interfaces
+* HTML/CSS → Responsive layouts and modern UI design
+* Flutter → Cross-platform mobile application development
 
 ---
 
-### 💬 Ask me about
-- Python programming & automation  
-- Dart and Flutter app development  
-- Using AI tools to generate educational resources  
-- Career guidance for students in tech  
+## 🔹 Python Development & Automation
+
+I use Python to create efficient tools and automate workflows using:
+
+* BeautifulSoup → Web scraping and data extraction
+* Streamlit → Interactive AI and web applications
+* APIs → Third-party integrations and dynamic applications
+* Linux & Git → Development workflow and version control
 
 ---
 
-### 📫 How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/fouziariaz-digitalmarketing/)  
-- ✉️ Email: **fouziar707@gmail.com**
+## 🔹 AI & Practical Applications
+
+I enjoy building practical AI-based tools that solve real problems.
+
+My projects focus on:
+
+* Career guidance systems
+* AI-assisted applications
+* User-focused web platforms
+* Automation and productivity solutions
 
 ---
 
-### ⚡ Fun fact
-I started my journey as a teacher in a government school and grew into a **Python Developer**, **Digital Marketing Instructor**, **College Lecturer**, and now a **University Lab Engineer** — proof that learning never stops! 🚀  
+# ⭐ Featured Projects
+
+## 🤖 AI Career Guide App (Top 10 Hackathon Finalist)
+
+An AI-powered career guidance platform built with Python and Streamlit, deployed on Hugging Face.
+
+* Provides personalized career recommendations
+* Helps users explore learning paths and skill development
+* Selected among the Top 10 projects in a Generative AI hackathon
 
 ---
+
+## 🛍️ Home Décor E-Commerce Web App
+
+A Django-based e-commerce platform developed for a home décor business.
+
+* Product listings and shopping interface
+* Responsive frontend design using HTML/CSS
+* Backend functionality with Django and Python
+
+---
+
+# 🛠 Tech Stack
+
+| Category        | Tools & Technologies                |
+| --------------- | ----------------------------------- |
+| Languages       | Python, JavaScript, HTML, CSS, Dart |
+| Frameworks      | Django, React, Flutter, Streamlit   |
+| Web Scraping    | BeautifulSoup                       |
+| Tools           | Git, GitHub, Linux                  |
+| Deployment & AI | Hugging Face, APIs                  |
+
+---
+
+# 📫 Let's Connect
+
+I’m always open to opportunities where I can grow as a developer and contribute to meaningful projects.
+
+💼 Looking for: Entry-level developer roles, internships, freelance projects
+📍 Location: Oslo, Norway
+🔗 LinkedIn: https://www.linkedin.com/in/fouziariaz/
+🌐 GitHub: https://github.com/FouziaRiaz
+
+If you're a recruiter, developer, or hiring manager, feel free to connect — I'd love to collaborate and contribute to your team.
+
 
 ⭐ *“Technology is best when it brings people together.”* — Matt Mullenweg  
