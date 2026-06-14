@@ -90,7 +90,7 @@ A Django-based e-commerce platform developed for a home décor business.
 
 I’m always open to opportunities where I can grow as a developer and contribute to meaningful projects.
 
-•	💼 Looking for: Entry-level developer roles, internships, freelance projects
+•	💼 Looking for: Entry-level developer roles, internships, freelance projects                                                                                                    
 •	📍 Location: Oslo, Norway
 •	📧 Email: fouziar808@gmail.com
 •	🔗 LinkedIn: https://www.linkedin.com/in/fouziariaz/
