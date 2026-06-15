@@ -54,7 +54,7 @@ My projects focus on:
 
 # ⭐ Featured Projects
 
-[## 🤖 AI Career Guide App (Top 10 Hackathon Finalist)](https://github.com/FouziaRiaz/career-guide-app)
+##[🤖 AI Career Guide App (Top 10 Hackathon Finalist)](https://github.com/FouziaRiaz/career-guide-app)
 
 An AI-powered career guidance platform built with Python and Streamlit, deployed on Hugging Face.
 
