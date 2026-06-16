@@ -64,7 +64,7 @@ An AI-powered career guidance platform built with Python and Streamlit, deployed
 
 ---
 
-## 🛍️ Home Décor E-Commerce Web App
+### **[🛍️ Home Décor E-Commerce Web App](https://github.com/FouziaRiaz/home-decoration-store)**
 
 A Django-based e-commerce platform developed for a home décor business.
 
